@@ -1,6 +1,14 @@
 # polygon-slope-length
 
+
 This python script calculates slope length rasters within polygons from a dem using **ArcPy** and **SAGA GIS**.
+
+![slpl]
+
+[slpl]: https://raw.githubusercontent.com/simonkiley/polygon-slope-length/master/slope_length.png
+        
+
+
 
 ## Usage
 
