@@ -92,7 +92,7 @@ for row in cursor:
 del row, cursor
 
 
-# Iterate through polygons and calculate slope length raster.
+# Iterate through polygons and generate slope length rasters.
 
 cursor = arcpy.SearchCursor(fc)
 count_row = 0
